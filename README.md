@@ -166,7 +166,3 @@ Upewnij się, że `app.json` zawiera w sekcji `"expo"`:
 Zrzuty ekranu aplikacji znajdują się w folderze [`/screenshots`](./screenshots/).
 
 ---
-
-## 📄 Licencja
-
-Projekt edukacyjny — Akademia Śląska w Katowicach, 2025/2026.
