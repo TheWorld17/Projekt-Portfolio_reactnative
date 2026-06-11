@@ -1,17 +1,17 @@
 # 📱 Portfolio Studenta
 
-Aplikacja mobilna zbudowana w **React Native + Expo**, prezentująca portfolio studenta informatyki. Projekt realizowany w ramach przedmiotu *Programowanie mobilne na iOS* na Akademii Śląskiej w Katowicach (rok akademicki 2025/2026).
+Aplikacja mobilna zbudowana w **React Native + Expo**, prezentująca portfolio studenta informatyki. Projekt realizowany w ramach przedmiotu *Programowanie mobilne na iOS*.
 
 ---
 
 ## 👤 Autor
 
 **Roman Vykeryk**  
-Informatyka, semestr 6 — Akademia Śląska w Katowicach  
+Informatyka, semestr 6 
 📧 broroman8@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/roman-vykeryk-b8a133336/)  
-🌐 [Portfolio](https://romanvyk.netlify.app)
-
+🌐 [Portfolio](https://romanvyk.netlify.app)  
+🎨 [Figma Design](https://www.figma.com/design/twyXkksab87l49rRGdB5Ay/Projekt-IOS?node-id=0-1&t=JCPlryNgcqEHp8uD-1)
 ---
 
 ## 📋 Opis projektu
