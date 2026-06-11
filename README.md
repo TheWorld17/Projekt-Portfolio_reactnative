@@ -7,8 +7,8 @@ Aplikacja mobilna zbudowana w **React Native + Expo**, prezentująca portfolio s
 ## 👤 Autor
 
 **Roman Vykeryk**  
-Informatyka, semestr 6 
-📧 broroman8@gmail.com    
+Informatyka, semestr 6 — Akademia Śląska w Katowicach  
+📧 broroman8@gmail.com  
 🎨 [Figma Design](https://www.figma.com/design/twyXkksab87l49rRGdB5Ay/Projekt-IOS?node-id=0-1&t=JCPlryNgcqEHp8uD-1)
 ---
 
