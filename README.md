@@ -161,6 +161,6 @@ Upewnij się, że `app.json` zawiera w sekcji `"expo"`:
 
 ## 📸 Zrzuty ekranu
 
-Zrzuty ekranu aplikacji znajdują się w folderze [`/screenshots`](./screenshots+widoki figma/).
+Zrzuty ekranu aplikacji znajdują się w folderze [`/screenshots+widoki figma`](./screenshots+widoki figma/).
 
 ---
